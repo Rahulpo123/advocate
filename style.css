@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+a{
+    font-family:'Lato', sans-serif;
+}
+p{
+    font-family:'Lato', sans-serif;
+}
+h1{
+    font-family: 'Open Sans', sans-serif;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+}
+body::before{
+    display: block;
+    content: '';
+    height: 70px;
+    width: 100%;
+}
+#cards .t{
+    text-align: center;
+    justify-content: center;
+
+
+}
+.clt{
+    margin-top: -3rem;
+}
